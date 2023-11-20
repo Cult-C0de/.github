@@ -1,5 +1,6 @@
 ## Hi there 👋
  - Learn more about our Organisation [Cult.C0de](https://cultcode.framer.website/)
+ - To Learn more about our members visit [here](https://tanmaymachkar.github.io/hackathonpage/)
 
 <!--
 
